@@ -1,0 +1,19 @@
+div[data-name="notificationTypeContainer"] {
+    max-height: 170px;
+    overflow: auto;
+    background-color: #292929;
+    outline: solid 1px;
+}
+
+div[data-name="userFilterContainer"] {
+    max-height: 170px;
+    overflow: auto;
+    background-color: #292929;
+    outline: solid 1px;
+}
+
+a[href="#/dashboard/notifications"] { display: none }
+a[href="#/dashboard/recordings"] { display: none }
+a[href="#/dashboard/livetv"] { display: none }
+a[href="#/dashboard/dlna"] { display: none }
+#livetv-subheader { display: none }
