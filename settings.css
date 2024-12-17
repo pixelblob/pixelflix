@@ -13,6 +13,7 @@ div[data-name="userFilterContainer"] {
 }
 
 div[id="configurationWrapper"] div[data-type="discord"] div:nth-child(5) {
+    max-height: 170px;
     overflow: auto;
     background-color: #292929;
     outline: solid 1px;
