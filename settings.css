@@ -35,6 +35,10 @@ a[href="#/dashboard/dlna"] {
     display: none
 }
 
+ul[aria-labelledby="livetv-subheader"] {
+    display: none;
+}
+
 #livetv-subheader {
     display: none
 }
