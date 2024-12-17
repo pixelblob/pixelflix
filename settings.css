@@ -12,6 +12,8 @@ div[data-name="userFilterContainer"] {
     outline: solid 1px;
 }
 
+div[id="configurationWrapper"] div[data-type="discord"] div:nth-child(5) { display: none }
+
 a[href="#/dashboard/notifications"] { display: none }
 a[href="#/dashboard/recordings"] { display: none }
 a[href="#/dashboard/livetv"] { display: none }
